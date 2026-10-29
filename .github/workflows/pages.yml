@@ -1,8 +1,5 @@
 name: Build and deploy blog
 on:
-  push:
-    branches: [master]
-    paths: ['blog/**', '.github/workflows/pages.yml']
   workflow_dispatch:
 permissions:
   contents: read
