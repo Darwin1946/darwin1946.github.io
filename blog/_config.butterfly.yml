@@ -1,0 +1,38 @@
+menu:
+  首页: / || fas fa-home
+  归档: /archives/ || fas fa-archive
+  工具: /tools/ || fas fa-toolbox
+  GitHub: https://github.com/Darwin1946 || fab fa-github
+avatar:
+  img: /img/avatar.svg
+  effect: false
+index_img: false
+default_top_img: false
+footer:
+  owner:
+    enable: true
+    since: 2022
+  custom_text: 记录生活与技术
+  copyright: true
+subtitle:
+  enable: true
+  effect: false
+  sub:
+    - 记录生活与技术
+social:
+  fab fa-github: https://github.com/Darwin1946 || GitHub
+aside:
+  card_author:
+    enable: true
+    description: 记录生活，分享实用工具。
+    button:
+      enable: true
+      icon: fab fa-github
+      text: GitHub
+      link: https://github.com/Darwin1946
+  card_announcement:
+    enable: false
+busuanzi:
+  site_uv: false
+  site_pv: false
+  page_pv: false
